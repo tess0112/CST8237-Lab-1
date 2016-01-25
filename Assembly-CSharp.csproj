@@ -45,6 +45,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\BackAndForth.cs" />
+     <Compile Include="Assets\Rotate.cs" />
      <Compile Include="Assets\SpawnObject.cs" />
      <None Include="Assets\Sources.txt" />
  <Reference Include="UnityEngine.UI">
